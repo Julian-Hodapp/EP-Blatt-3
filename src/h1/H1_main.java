@@ -6,7 +6,10 @@ public class H1_main {
 		
 		int rating = -2;
 		
-		boolean warnhinweis = false, negativ = false;
+		boolean warnhinweis = true, negativ = true;
+		
+		warnhinweis = false;
+		negativ = false;
 		
 		if (guthaben > 0) {
 			negativ = false;

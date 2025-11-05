@@ -11,7 +11,7 @@ public class P1_main {
 		} else if (w == 5) {
 			System.out.println("Unentschieden !");
 		} else {
-			System.out.println("nicht definiert");
+			System.out.println("Es konnte kein Ausgang festgestellt werden");
 		}
 	}
 }

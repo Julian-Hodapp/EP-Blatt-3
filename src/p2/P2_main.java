@@ -6,6 +6,8 @@ public class P2_main {
 		
 		boolean e1 = a == b, e2 = a == b || a == c, e3 = a + b >= c, e4 = a + b + c >= 100;
 		
+		d = 0;
+		
 		if (e1) {
 			++d;
 		}
